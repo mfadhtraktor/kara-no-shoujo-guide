@@ -1,17 +1,29 @@
-<a href="#kara-no-shoujo">Kara no Shoujo</a> 
+<a href="#kara-no-shoujo">Kara no Shoujo</a>
+<br>
 <a href="#first-round">First Round</a>
+<br>
 <a href="#second-round">Second Round</a>
+<br>
 <a href="#third-round">Third Round</a>
+<br>
 
 <a href="#kara-no-shoujo-the-second-episode">Kara no Shoujo the Second Episode</a>
+<br>
 <a href="#common">Common</a>
+<br>
 <a href="#second-round-normal">Second Round Normal</a>
+<br>
 <a href="#true">True</a>
+<br>
 
 <a href="#kara-no-shoujo-the-last-episode">Kara no Shoujo the Last Episode</a>
+<br>
 <a href="#common-1">Common</a>
+<br>
 <a href="#grand">Grand</a>
+<br>
 <a href="#true-1">True</a>
+<br>
 
 ## Kara no Shoujo 
 ### First Round
